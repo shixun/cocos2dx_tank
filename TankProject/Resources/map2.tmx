@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="52" height="52" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="tile" tilewidth="8" tileheight="8">
+  <image source="tile.png" trans="000000" width="224" height="32"/>
+ </tileset>
+ <layer name="bg1" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJztmO0KwjAMRaegoO+goKDv/4j2Z3dhvbtL+jGXAyWw0qzmzFA6TRqXNK5ZVLGu9+aVxjuLrdd7E35816uc0jhnEbHWl+W3ziOPNJ5ZRKz1Zfmt80j40RjNjwrmU+uP34O3HxXMp9Yfv4fw819+GN7+kNbnB+/6IKOdH6yEnzm3NO5ZZKh+1Hpjftwf63+fNL5ZZKh+1Hpjftwf63/hZ19+VF+Itz91P/j7VV+Itz91P+GnTG8/CDsPs/7DotrvWH9jsPMw6z8sqv2O9TdG+BnbDwPrq9av9f0OA+ur1q/1/Q4j/MypPa/en7D+VLu+bL16f8L6U+3vP/zs2w/i3X9Gvx9V53vfj4af8vzR/XjT24834ac8P7qf3u/37m+18T5fePnZ+r8Z1c/W/01rP2qd1z5fym/tj171YevXvt/aH8NPOc/a50v5VT8/kOhNCQ==
+  </data>
+ </layer>
+ <layer name="bg2" width="52" height="52">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJACAQA0Ab3UP3H1IX8LEQ8eEOQiBtSgEAAAAAAAAAAOClutKCzqavjKCz2f2Q/Z/T/Xf+uWMCZ9oCcQ==
+  </data>
+ </layer>
+ <objectgroup name="objects" width="52" height="52">
+  <object name="pl1" x="136" y="384" width="24" height="24"/>
+  <object name="en1" x="4" y="4" width="24" height="24"/>
+  <object name="en2" x="200" y="0" width="24" height="24"/>
+  <object name="en3" x="392" y="0" width="24" height="24"/>
+  <object name="t1" x="132" y="60" width="24" height="24"/>
+  <object name="t2" x="68" y="228" width="24" height="24"/>
+  <object name="t3" x="260" y="196" width="24" height="24"/>
+  <object name="t4" x="324" y="324" width="24" height="24"/>
+  <object name="t5" x="380" y="164" width="24" height="24"/>
+  <object name="t6" x="228" y="116" width="24" height="24"/>
+  <object name="t7" x="316" y="4" width="24" height="24"/>
+  <object name="t8" x="208" y="168" width="24" height="24"/>
+  <object name="t9" x="28" y="124" width="24" height="24"/>
+  <object name="t10" x="4" y="356" width="24" height="24"/>
+  <object name="home" x="192" y="384" width="32" height="32"/>
+ </objectgroup>
+</map>
